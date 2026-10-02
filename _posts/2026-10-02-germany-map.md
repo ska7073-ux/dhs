@@ -1,9 +1,10 @@
 ---
-title: "Mapping Germany"
+title: "Assignment 1: Mapping Germany"
 date: 2026-10-02
 layout: single
 ---
 
+## Exploring Germany Through GeoNames Data
 
 I have always thought of maps as something physical that helps us understand where places are and how they relate to each other. However, Wilson’s reading made me reconsider what actually counts as a map. One idea that stood out to me was that mapping can happen before anything is actually drawn or displayed. We can already form an understanding of a place through the locations and experiences we remember. This made me think about my own relationship with Germany. I have spent many of my summers in Germany, mostly in Munich, while my grandfather was there for medical treatment. While he was in the hospital, I spent a lot of time exploring the city with my family. We went to museums and theaters, and I spent a lot of my time going to football games. The more I visited, the more I started to feel like I knew Germany quite well. Looking back, I had already formed my own map of Germany through these experiences, even though I had never thought of it that way.
 
