@@ -4,7 +4,6 @@ date: 2026-10-02
 layout: single
 ---
 
-# Mapping Germany
 
 I have always thought of maps as something physical that helps us understand where places are and how they relate to each other. However, Wilson’s reading made me reconsider what actually counts as a map. One idea that stood out to me was that mapping can happen before anything is actually drawn or displayed. We can already form an understanding of a place through the locations and experiences we remember. This made me think about my own relationship with Germany. I have spent many of my summers in Germany, mostly in Munich, while my grandfather was there for medical treatment. While he was in the hospital, I spent a lot of time exploring the city with my family. We went to museums and theaters, and I spent a lot of my time going to football games. The more I visited, the more I started to feel like I knew Germany quite well. Looking back, I had already formed my own map of Germany through these experiences, even though I had never thought of it that way.
 
@@ -36,7 +35,7 @@ This became important when I started comparing cities. Nuremberg having more mus
 This made me think more critically about GeoNames as a database. Kitchin and Lauriault describe how databases and repositories are “not simply a neutral, technical means of assembling and sharing data” but are shaped by the processes involved in producing and organizing that information (Kitchin & Lauriault, 2014). I could see this while doing my own assignment because GeoNames did more than give me locations. The way the information was organized into feature codes affected what I could search for, compare, and eventually show on my map. At the same time, some of the information I wanted when interpreting the map was not available through the categories I was using.
 
 <figure>
-  <img src="{{ '/assets/images/Museum-Clusters.jpg' | relative_url }}" alt="Map showing museum locations in Germany">
+  <img src="{{ '/assets/images/Museum-Clusters.jpeg' | relative_url }}" alt="Map showing museum locations in Germany">
   <figcaption>Figure 2. Museum locations in Germany, highlighting visible concentrations around Berlin and Nuremberg.</figcaption>
 </figure>
 
