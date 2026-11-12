@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Sara Alremeithi"
-  avatar : "ladybug2.jpg"
+  avatar : "/assets/images/ladybug2.jpg"
   bio    : "NYUAD Junior | Political Science + BOS Major"
   links:
     - label: "Website"
